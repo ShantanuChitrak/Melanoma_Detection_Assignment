@@ -22,7 +22,7 @@
 - We will check for class imbalance of the model and improve it generating more images of each class.
 
 ## Conclusions
-1) The model has achieved maximum training accuracy of 81% and validation accuracy of 77.5%.
+1) The model has achieved maximum training accuracy of 81.97% and validation accuracy of 76.76%.
 2) There is less overfitting than before as training and validation accuracy are closer than before. The accuracy for both training and validation decrease gradually together.
 3) The loss for both training and validation decrease gradually together as well.
 4) After reducing class imbalance, tuning the learning rate, the accuracy has increases significantly and also solved problem of overfitting.
